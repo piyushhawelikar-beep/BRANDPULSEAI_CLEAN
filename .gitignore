@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+data/Tweets.csv
+train_models.py
+notebooks/
+.DS_Store
