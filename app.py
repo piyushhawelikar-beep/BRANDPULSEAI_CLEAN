@@ -1,3 +1,6 @@
+import sys
+sys.path = [p for p in sys.path if p != ""]
+
 import os
 os.environ["PYTHONSAFEPATH"] = "0"
 
