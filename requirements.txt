@@ -3,6 +3,6 @@ pandas
 numpy
 scikit-learn
 joblib
-nltk==3.9.1
+nltk==3.8.1
 matplotlib
 tensorflow
