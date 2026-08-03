@@ -3,6 +3,7 @@ pandas
 numpy
 scikit-learn
 joblib
-nltk
+nltk==3.9.1
+regex==2024.11.6
 matplotlib
 tensorflow
