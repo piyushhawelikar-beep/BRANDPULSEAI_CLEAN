@@ -1,3 +1,6 @@
+import os
+os.environ["PYTHONSAFEPATH"] = "0"
+
 import streamlit as st
 import joblib
 import pickle
