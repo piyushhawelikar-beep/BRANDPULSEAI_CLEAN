@@ -4,5 +4,6 @@ numpy
 scikit-learn
 joblib
 nltk==3.8.1
+regex==2024.9.11
 matplotlib
 tensorflow
