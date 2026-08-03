@@ -10,8 +10,8 @@ import pandas as pd
 from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 import nltk
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
+nltk.download("stopwords")
+nltk.download("wordnet")
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
